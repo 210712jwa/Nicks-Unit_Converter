@@ -158,7 +158,7 @@ public class Converter {
 			}
 			System.out.println("Would you like to choose another Conversion? (Y/N) ");
 			
-			tryAnother = sc.nextLine();
+		
 			tryAnother = sc.nextLine();
 
 			if (tryAnother.equals("N") || tryAnother.equals("n")) {
